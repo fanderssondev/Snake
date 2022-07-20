@@ -17,6 +17,12 @@ body {
     grid-template-columns: repeat(21, 1fr);
 }
 
+#score {
+    color: red;
+    width: 30px;
+    height: 30px;
+}
+
 .snake {
     background-color: hsl(200, 100%, 50%);
     border: 0.25vmin solid black;
